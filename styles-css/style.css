@@ -62,8 +62,7 @@ header{
 /* Blog Sectiona */
 #blog, #upcomming{
     width: 90%;
-    margin-top: 30px;
-    margin-left: 60px;
+   margin: 20px auto;
 }
 .blog{
     display: flex;
@@ -75,13 +74,16 @@ header{
     background-color: black;
     margin-top: 25px;
 }
+.blog-nav li{
+    list-style: none;
+}
 .blog-nav a{
     display: block;
     border: 1px solid darkslategray;
     border-radius: 10px;
     text-decoration: none;
     padding: 15px 20px;
-    margin: 10px 30px;
+    margin: 10px;
     background-color: white;
     color: black;
     font-weight:700;
