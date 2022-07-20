@@ -194,3 +194,15 @@ footer{
     color: #B6B6B6;
     text-decoration: none;
 }
+.social-link{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+.social-link a{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+}
