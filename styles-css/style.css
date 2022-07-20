@@ -104,6 +104,9 @@ header{
 }
 .blog-content{
     padding: 15px 10px;
+    box-shadow: 10px 10px whitesmoke;
+    border: 2px solid white;
+    border-radius: 20px;
 }
 .blog-content img{
     width: 290px;
@@ -164,6 +167,7 @@ header{
 /* footer */
 
 footer{
+    margin-top: 5%;
     background-color: #161616;
 }
 .footer{
