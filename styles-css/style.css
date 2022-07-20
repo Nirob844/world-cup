@@ -147,7 +147,9 @@ header{
 /* Upcoming content */
 .upcomming-content{
     padding: 15px 10px;
-    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;    
+    box-shadow: 10px 10px whitesmoke;
+    border: 2px solid white;
+    border-radius: 20px;   
 }
 .upcomming-content h1{
     text-align: center;
